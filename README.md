@@ -25,15 +25,11 @@
 	<a href="https://stardev.io/developers/jahid-iw"><img alt="Check out jahid-iw&apos;s profile on stardev.io" src="https://stardev.io/developers/jahid-iw/badge/languages/global.svg" /></a>
 </div>
 
-<table align="center">
-  <tr>
-    <td>
-		<a href="https://discord.com/users/1323162566096195655" target="_blank" rel="nofollow">
-			<img src="https://lanyard-profile-readme.vercel.app/api/1323162566096195655?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="center">
-		</a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+	<a href="https://discord.com/users/1323162566096195655" target="_blank" rel="nofollow">
+		<img src="https://lanyard.cnrad.dev/api/1323162566096195655?idleMessage=Probably%20doing%20something%20else...&theme=dark&showDisplayName=true" alt="Discord Presence" align="center">
+	</a>
+</div>
 	
 ## :trophy: Git profile Trophies
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jahid-iw&theme=algolia" alt="jahid-iw" /></a> </p>
